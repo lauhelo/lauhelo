@@ -1,6 +1,6 @@
 # 📄 Perfil Profissonal - Laura Heloisa CLeveston:
 
-🎯 **Objetivo:** Atuar na área de Tecnologia da Informação, criando soluções inovadoras e eficientes para sistemas, infraestrutura e design.
+🎯 **Objetivo:** Atuar no desenvolvimento de sistemas e soluções em TI, com foco em programação, bancos de dados e inteligência artificial.
 
 ---
 
@@ -8,7 +8,6 @@
 - Nome: Laura Heloisa Cleveston
 - Idade: 16 Anos
 - Cidade: Presidente prudente - SP
-- Telefone: (18) 99999-9999
 - Email: .......@gmail.com
 
 ---
@@ -20,7 +19,7 @@
 ---
 
 ## 📜 Cursos e Certificações:
-- Certificado_Ética na Inteligência Artificia
+- Certificado_Ética na Inteligência Artificia 
 - Certificado_Competência Transversal - Segurança no Trabalho
 - Certificado_Desvendando a Descarbonização
 - Certificado_Excel Básico
@@ -60,5 +59,4 @@
 ## 🎨 Hobbies:
 - Dança (Ballet e Jazz)
 - Pintura/desenho
-- Ler
 - Fotografia
