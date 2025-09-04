@@ -49,10 +49,9 @@
 
 ## 💡 Metas ao longo prazo:
 - Terminar o Curso de Desenvolvimento de Sistemas
-- Entar para uma boa faculdade
-- Criatividade e design visual
-- Organização e planejamento
+- Entar em uma faculdade
 - Aprender coisas novas
+- Buscar novos objetivos
 
 ---
 
