@@ -69,4 +69,6 @@
 ## Health-IA:
 - Na Health-IA, a tecnologia e a inteligência artificial se unem para cuidar da sua saúde com precisão e personalização. Nosso site oferece soluções inovadoras, desde diagnósticos inteligentes até monitoramento remoto, proporcionando um cuidado contínuo e adaptado às suas necessidades. Conheça um novo jeito de se cuidar com segurança e inovação.
 
+PDF: [Sites](LOGO.pdf)
+
 
