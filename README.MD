@@ -59,3 +59,14 @@
 - Dança (Ballet e Jazz)
 - Pintura/desenho
 - Fotografia
+
+---
+
+# Projetos:
+## Gourmetify:
+- Descubra o sabor e a arte da gastronomia na Gourmetify. Com receitas exclusivas e ingredientes premium, nosso site conecta você a uma experiência culinária única. Explore nossos workshops de culinária e receba dicas especiais para transformar suas refeições em momentos inesquecíveis. Venha viver o melhor da gastronomia!
+
+## Health-IA:
+- Na Health-IA, a tecnologia e a inteligência artificial se unem para cuidar da sua saúde com precisão e personalização. Nosso site oferece soluções inovadoras, desde diagnósticos inteligentes até monitoramento remoto, proporcionando um cuidado contínuo e adaptado às suas necessidades. Conheça um novo jeito de se cuidar com segurança e inovação.
+
+
